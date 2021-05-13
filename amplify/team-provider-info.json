@@ -10,6 +10,14 @@
       "StackName": "amplify-demoamp-dev-90356",
       "StackId": "arn:aws:cloudformation:us-east-1:247943188160:stack/amplify-demoamp-dev-90356/4dc905a0-b3e3-11eb-8e63-0e403b617781",
       "AmplifyAppId": "d3k5qfqy9f5mec"
+    },
+    "categories": {
+      "function": {
+        "insert": {
+          "deploymentBucketName": "amplify-demoamp-dev-90356-deployment",
+          "s3Key": "amplify-builds/insert-565142614d6343767436-build.zip"
+        }
+      }
     }
   }
 }
